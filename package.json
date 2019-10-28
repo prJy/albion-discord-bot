@@ -1,0 +1,26 @@
+{
+  "name": "albion-discord-bot",
+  "version": "1.0.0",
+  "description": "Albion discord bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prJy/albion-discord-bot.git"
+  },
+  "author": "Anderson Oliveira (prJy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prJy/albion-discord-bot/issues"
+  },
+  "homepage": "https://github.com/prJy/albion-discord-bot#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
+    "nodemon": "^1.19.4",
+    "winston": "^3.2.1"
+  }
+}
