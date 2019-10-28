@@ -8,6 +8,6 @@ File: auth.json
 
 ```js
 {
-	token: “Your Bot Token”
+	token: â€œYour Bot Tokenâ€ 
 }
 ```
