@@ -1,13 +1,13 @@
-#Creditial format
+# Credentials format
 
 ***
 
-##Discord bot token
+## Discord bot token
 
 File: auth.json
 
 ```js
 {
-	token: “Your Bot Token” 
+	token: "Your Bot Token"
 }
 ```
